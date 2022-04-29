@@ -1,0 +1,2 @@
+# spec
+Karta specification
